@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# Database
+*.sqlite3
+*.db
+*.db3
+
+# Logs
+*.log
+
+# Static files
+staticfiles/
+*.css.map
+
+# Media files
+media/
+
+# Secret key
+*.secret_key
+*.env
+env
+# Django generated files
+*.DS_Store
+*.cache
+*.pyc
+*.egg-info/
